@@ -1,0 +1,13 @@
+rational f , c , sanji ;
+integer a , b  ;
+boolean d ;
+{
+    a := 758 ;
+    b := 2 ;
+    c := 3.14(5) ;
+    b := ( a + b ) * 2 ;
+    print ( b ) ;
+    d := tt ;
+    print ( not d ) ;
+
+}

@@ -1,0 +1,19 @@
+Library
+    structure Rat
+    structure Asteval
+
+is
+    datatypes.sml  (* Lot of datatypes *)
+    lexer.lex     (* Lexer rules. *)
+    my.yacc:MLYacc (* Parser rules. *)
+    glue.sml       (* Build the parser *)
+    rational.sml
+    while_ast.sml (* Lex, parse *)
+    evaluator.sml (* Evaluate *)
+    $/basis.cm (* SML/NJ’s Basis Library. *)
+    $/ml-yacc-lib.cm (* Code written by Lucent. *)
+    $smlnj/compiler/compiler.cm (* Structure Compiler. *)
+    $/smlnj-lib.cm (* for hashtable *)
+
+(* CM.make "Rat.cm" ;  *)
+(* Rat.compile "prog.txt"; *)
