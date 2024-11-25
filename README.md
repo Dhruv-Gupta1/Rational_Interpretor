@@ -7,8 +7,10 @@
 <p align="left">
 	<img src="https://img.shields.io/github/languages/top/Dhruv-Gupta1/Rational_Interpretor?style=flat&color=ff1200" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Dhruv-Gupta1/Rational_Interpretor?style=flat&color=ff1200" alt="repo-language-count">
-</p>
+<p align="left">
+	</p>
 </div>
+<br clear="right">
 
 ##  Overview
 
