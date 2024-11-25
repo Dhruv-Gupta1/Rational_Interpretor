@@ -1,5 +1,4 @@
 <div align="left" style="position: relative;">
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-filled-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>Interpretor for Rationals in Standard ML</h1>
 <!-- <p align="left">
 	<em><code>❯ REPLACE-ME</code></em>
