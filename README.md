@@ -1,7 +1,93 @@
-# Assignment 4 COL226 
+<div align="left" style="position: relative;">
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-filled-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
+<h1>Interpretor for Rationals in Standard ML</h1>
+<!-- <p align="left">
+	<em><code>❯ REPLACE-ME</code></em>
+</p> -->
+<p align="left">
+	<img src="https://img.shields.io/github/languages/top/Dhruv-Gupta1/Rational_Interpretor?style=flat&color=ff1200" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/Dhruv-Gupta1/Rational_Interpretor?style=flat&color=ff1200" alt="repo-language-count">
+</p>
+</div>
+
+##  Overview
+
+This project is a part of the course COL226 at IIT Delhi. It is an interpreter for a simple language that supports rational numbers. The interpreter is implemented in SML and uses the tools like lex and yacc for parsing and interpreting the input program.
+
+---
+
+##  Features
+
+<code>❯ REPLACE-ME</code>
+
+---
 
 
-## Documenting grammer
+
+###  Project Index
+<details open>
+	<summary><b><code>RATIONAL_INTERPRETOR/</code></b></summary>
+	<details> <!-- __root__ Submodule -->
+		<summary><b>__root__</b></summary>
+		<blockquote>
+			<table>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/lexer.lex'>lexer.lex</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/glue.sml'>glue.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/a.sml'>a.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/Rat.cm'>Rat.cm</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/evaluator.sml'>evaluator.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/while_ast.sml'>while_ast.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/prog.rat'>prog.rat</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/rational.sml'>rational.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/my.yacc'>my.yacc</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/Makefile'>Makefile</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/datatypes.sml'>datatypes.sml</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Dhruv-Gupta1/Rational_Interpretor/blob/master/output.txt'>output.txt</a></b></td>
+				<td><code>❯ REPLACE-ME</code></td>
+			</tr>
+			</table>
+		</blockquote>
+	</details>
+</details>
+
+---
+
+
+## Documentation
 
 ### EBNF rules for the grammer:
 
